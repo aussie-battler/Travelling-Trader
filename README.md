@@ -14,6 +14,9 @@ http://www.exilemod.com/profile/60-second_coming/
 Modified, fixed and added to by **[GADD]Monkeynutz** 
 http://www.exilemod.com/profile/61794-monkeynutz/
 
+Locker & flag added to the vehicle by **aussie battler**
+http://www.exilemod.com/profile/77837-aussie-battler/
+
 **Customise the Traders:**
 
 + I have set both traders to be Spec Ops traders. You can customise both traders in the files:
