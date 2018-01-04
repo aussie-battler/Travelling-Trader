@@ -11,7 +11,8 @@ http://www.exilemod.com/topic/7664-roaming-trader-script
 Trader vehicle handling added by **second_coming** 
 http://www.exilemod.com/profile/60-second_coming/
 
-Modified, fixed and added to by **[GADD]Monkeynutz**
+Modified, fixed and added to by **[GADD]Monkeynutz** 
+http://www.exilemod.com/profile/61794-monkeynutz/
 
 **Customise the Traders:**
 
@@ -67,3 +68,5 @@ Change line 87 & 88 to:
 
    // Locker = createVehicle ["Exile_Locker", _possiblePosStart, [], 0, "can_collide"]; 
   //  Locker attachTo [_vehicleObject, [0.00683594,-1.80609,-1.31031]];  
+
+![Travelling-Trader](https://github.com/aussie-battler/Travelling-Trader/blob/master/20171228140954_1.jpg)
