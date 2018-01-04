@@ -2,7 +2,9 @@
 
 Credits to:
 
-ROAMING TRADER by **JohnO**
+ROAMING TRADER 
+
+by **JohnO**
 http://www.exilemod.com/profile/38-john/
 http://www.exilemod.com/topic/7664-roaming-trader-script
 
