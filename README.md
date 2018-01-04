@@ -1,6 +1,7 @@
 ## ROAMING TRADER by JohnO 
 
 Credits to:
+
 ROAMING TRADER by **JohnO**
 http://www.exilemod.com/profile/38-john/
 http://www.exilemod.com/topic/7664-roaming-trader-script
@@ -29,7 +30,7 @@ change it to:
 
 Here are the lines (line 21 to line 30) to customise your trader:
 ```
-_tradertype				= "Exile_Trader_SpecialOperations";		// Set what kind of trader you want to be roaming the lands.
+_tradertype			= "Exile_Trader_SpecialOperations";		// Set what kind of trader you want to be roaming the lands.
 _vehicletype			= "B_LSV_01_armed_F";			// Set what vehicle you want him to be in.
 _traderuniform 			= "U_O_GhillieSuit";				// Set the uniform for the trader
 _tradervest 			= "V_PlateCarrier2_rgr_noflag_F";			// Set the vest that the trader will wear
