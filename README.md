@@ -65,8 +65,8 @@ and change the directory to your server logo in your mission.pbo
 **Remove the locker on the vehicle:**
 
 Change line 87 & 88 to:
-
-   // Locker = createVehicle ["Exile_Locker", _possiblePosStart, [], 0, "can_collide"]; 
-  //  Locker attachTo [_vehicleObject, [0.00683594,-1.80609,-1.31031]];  
-
+```
+//Locker = createVehicle ["Exile_Locker", _possiblePosStart, [], 0, "can_collide"]; 
+//Locker attachTo [_vehicleObject, [0.00683594,-1.80609,-1.31031]];  
+```
 ![Travelling-Trader](https://github.com/aussie-battler/Travelling-Trader/blob/master/20171228140954_1.jpg)
